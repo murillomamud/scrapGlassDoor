@@ -104,7 +104,7 @@ def get_total_pages():
     return total
     
 total_pages = get_total_pages() + 1
-total_pages = 5
+
 for i in range(1,total_pages):
     print(f"Getting page {i} from {total_pages - 1}")
     time.sleep(0.1)
