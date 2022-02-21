@@ -27,6 +27,7 @@ split_words = [
     "-Arquiteto",
     "-Cientista",
     "-Data-Scientist",
+    "-Data-scientist",
     "-Data-Science",
     "-Data-Engineer",
     "-Database",
@@ -54,7 +55,18 @@ split_words = [
     "-Analyst",
     "-Manager",
     "-Gerente",
-    "-Engineering"
+    "-Engineering",
+    "-Coletor",
+    "-Preparador",
+    "-Auxiliar",
+    "-Operador",
+    "-Engenharia-De-Dados",
+    "-Diretor",
+    "-Adminstrador-De-Dados",
+    "-cientista",
+    "-Supervisor",
+    "-Head",
+    "-Agente"
 ]
 
 def find_pos(string, times):
