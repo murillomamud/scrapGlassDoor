@@ -19,6 +19,55 @@ salaries = []
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36'}
 url = 'https://www.glassdoor.com.br/Sal%C3%A1rios/s%C3%A3o-paulo-engenheiro-de-dados-sal%C3%A1rio-SRCH_IL.0,9_IM1009_KO10,29_IP{}.htm?clickSource=searchBtn'
 
+split_words = [
+    "-Administrador-De-Banco-De-Dados",
+    "-Big",
+    "-Data-Engineer",
+    "-Engenheiro",
+    "-Arquiteto",
+    "-Cientista",
+    "-Data-Scientist",
+    "-Data-Science",
+    "-Data-Engineer",
+    "-Database",
+    "-Analista",
+    "-Senior",
+    "-Sênior",
+    "-Junior",
+    "-Júnior",
+    "-Pleno",
+    "-Administrator",
+    "-DBA",
+    "-Especialista",
+    "-Assistente",
+    "-Estagio",
+    "-Estagiario",
+    "-Estagiário",
+    "-Coordenador",
+    "-Internship",
+    "-Trainee",
+    "-Técnico",
+    "-Tecnico",
+    "-Levantador",
+    "-Administrador",
+    "-Engenheiro",
+    "-Analyst",
+    "-Manager",
+    "-Gerente",
+    "-Engineering"
+]
+
+def find_pos(string, times):
+    times += 1
+    if times == 10:
+        return len(string)
+    for separator in split_words:
+        pos = string.find(separator)
+        if pos >= 0:
+            return pos
+
+    find_pos(string, times)
+    return len(string)
 
 def send_data_to_S3(file):
     s3 = boto3.resource('s3')    
@@ -63,7 +112,10 @@ for i in range(1,total_pages):
         a = (item.find("a"))
         if a:
             company = (a['href']).split("/")[2]
-            pos = company.find("-Engenheiro")
+            pos = find_pos(company,1)
+            company = unidecode.unidecode(company[:pos])            
+
+            pos = find_pos(company,1)
             company = unidecode.unidecode(company[:pos])
 
             data = {'company': company, 'salary': salary, 'page':i}
