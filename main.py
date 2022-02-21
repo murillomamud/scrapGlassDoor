@@ -26,6 +26,7 @@ split_words = [
     "-Engenheiro",
     "-Arquiteto",
     "-Cientista",
+    "-Codificador",
     "-Data-Scientist",
     "-Data-scientist",
     "-Data-Science",
@@ -103,7 +104,7 @@ def get_total_pages():
     return total
     
 total_pages = get_total_pages() + 1
-
+total_pages = 5
 for i in range(1,total_pages):
     print(f"Getting page {i} from {total_pages - 1}")
     time.sleep(0.1)
@@ -130,7 +131,7 @@ for i in range(1,total_pages):
             pos = find_pos(company,1)
             company = unidecode.unidecode(company[:pos])
 
-            data = {'company': company, 'salary': salary, 'page':i}
+            data = {'company': company, 'salary_low': salary, 'salary_high': salary_high, 'page':i}
             salaries.append(data)
 
         res = item.find("h3")
@@ -150,13 +151,15 @@ for i in range(1,total_pages):
                 salary_high = conv_salary(salary_high)
 
 
-                if int(salary_high) > 0:
-                    salary = ( int(salary) + int(salary_high) ) / 2
+                if int(salary_high) == 0:
+                    salary_high = salary
 
                 if hour:
                     salary = int(salary) * 168
+                    salary_high = int(salary_high) * 168
                 else:
                     salary = int(salary)
+                    salary_high = int(salary_high)
                 
                 
 

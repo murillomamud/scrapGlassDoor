@@ -1,902 +1,482 @@
 [
     {
         "company": "Semantix",
-        "salary": 7587,
+        "salary_low": 7587,
+        "salary_high": 7587,
         "page": 1
     },
     {
         "company": "Itau-Unibanco-Itau-BBA-e-Rede",
-        "salary": 9524,
+        "salary_low": 9524,
+        "salary_high": 9524,
         "page": 1
     },
     {
         "company": "Tenbu",
-        "salary": 5648,
+        "salary_low": 5648,
+        "salary_high": 5648,
         "page": 1
     },
     {
         "company": "PagSeguro",
-        "salary": 11563,
+        "salary_low": 11563,
+        "salary_high": 11563,
         "page": 1
     },
     {
         "company": "HVAR-Consulting",
-        "salary": 5788,
+        "salary_low": 5788,
+        "salary_high": 5788,
         "page": 1
     },
     {
         "company": "Kzas",
-        "salary": 1068,
+        "salary_low": 1068,
+        "salary_high": 1068,
         "page": 1
     },
     {
         "company": "Leega",
-        "salary": 2385,
+        "salary_low": 2385,
+        "salary_high": 2385,
         "page": 1
     },
     {
         "company": "Via",
-        "salary": 10981,
+        "salary_low": 10981,
+        "salary_high": 10981,
         "page": 1
     },
     {
         "company": "everis",
-        "salary": 5279,
+        "salary_low": 5279,
+        "salary_high": 5279,
         "page": 1
     },
     {
         "company": "BRQ",
-        "salary": 2857,
+        "salary_low": 2857,
+        "salary_high": 2857,
         "page": 1
     },
     {
         "company": "Creditas",
-        "salary": 8148,
+        "salary_low": 8148,
+        "salary_high": 8148,
         "page": 1
     },
     {
         "company": "2RP-Net",
-        "salary": 3759,
+        "salary_low": 3759,
+        "salary_high": 3759,
         "page": 1
     },
     {
         "company": "Itau-Unibanco-Itau-BBA-e-Rede",
-        "salary": 8231,
+        "salary_low": 8231,
+        "salary_high": 8231,
         "page": 1
     },
     {
         "company": "Kroton-Educacional",
-        "salary": 7856,
+        "salary_low": 7856,
+        "salary_high": 7856,
         "page": 1
     },
     {
         "company": "Porto-Seguro-Seguros",
-        "salary": 13599,
+        "salary_low": 13599,
+        "salary_high": 13599,
         "page": 1
     },
     {
         "company": "CI-and-T",
-        "salary": 9795,
+        "salary_low": 9795,
+        "salary_high": 9795,
         "page": 1
     },
     {
         "company": "BlueShift-Brasil",
-        "salary": 12061,
+        "salary_low": 12061,
+        "salary_high": 12061,
         "page": 1
     },
     {
         "company": "Anheuser-Busch-InBev",
-        "salary": 5432,
+        "salary_low": 5432,
+        "salary_high": 5432,
         "page": 1
     },
     {
         "company": "IBM",
-        "salary": 11135,
+        "salary_low": 11135,
+        "salary_high": 11135,
         "page": 1
     },
     {
         "company": "Keyrus",
-        "salary": 10429,
+        "salary_low": 10429,
+        "salary_high": 10429,
         "page": 1
     },
     {
         "company": "PicPay",
-        "salary": 10965,
+        "salary_low": 10965,
+        "salary_high": 10965,
         "page": 2
     },
     {
         "company": "DP6",
-        "salary": 6500,
+        "salary_low": 5000,
+        "salary_high": 7000,
         "page": 2
     },
     {
         "company": "Guiabolso",
-        "salary": 8000,
+        "salary_low": 7000,
+        "salary_high": 10000,
         "page": 2
     },
     {
         "company": "PagSeguro",
-        "salary": 10416,
+        "salary_low": 6384,
+        "salary_high": 14784,
         "page": 2
     },
     {
         "company": "Indra",
-        "salary": 14000,
+        "salary_low": 10000,
+        "salary_high": 18000,
         "page": 2
     },
     {
         "company": "Dasa",
-        "salary": 10500,
+        "salary_low": 7000,
+        "salary_high": 14000,
         "page": 2
     },
     {
         "company": "will-bank",
-        "salary": 12500,
+        "salary_low": 12000,
+        "salary_high": 13000,
         "page": 2
     },
     {
         "company": "SysMap-Solutions",
-        "salary": 14952,
+        "salary_low": 13776,
+        "salary_high": 16296,
         "page": 2
     },
     {
         "company": "Infosys",
-        "salary": 17000,
+        "salary_low": 15000,
+        "salary_high": 19000,
         "page": 2
     },
     {
         "company": "Dextra",
-        "salary": 7000,
+        "salary_low": 6000,
+        "salary_high": 8000,
         "page": 2
     },
     {
         "company": "Neon-Pagamentos",
-        "salary": 7500,
+        "salary_low": 7000,
+        "salary_high": 8000,
         "page": 2
     },
     {
         "company": "Tenbu",
-        "salary": 11000,
+        "salary_low": 3000,
+        "salary_high": 19000,
         "page": 2
     },
     {
         "company": "Moip",
-        "salary": 4500,
+        "salary_low": 4000,
+        "salary_high": 5000,
         "page": 2
     },
     {
         "company": "PowerOfData",
-        "salary": 7500,
+        "salary_low": 7000,
+        "salary_high": 8000,
         "page": 2
     },
     {
         "company": "UOL",
-        "salary": 14000,
+        "salary_low": 8000,
+        "salary_high": 20000,
         "page": 2
     },
     {
         "company": "Nextel-Brasil",
-        "salary": 8500,
+        "salary_low": 7000,
+        "salary_high": 10000,
         "page": 2
     },
     {
         "company": "UOL",
-        "salary": 8500,
+        "salary_low": 6000,
+        "salary_high": 11000,
         "page": 2
     },
     {
         "company": "Mandic",
-        "salary": 5500,
+        "salary_low": 5000,
+        "salary_high": 6000,
         "page": 2
     },
     {
         "company": "GAVB",
-        "salary": 12500,
+        "salary_low": 8000,
+        "salary_high": 17000,
         "page": 2
     },
     {
         "company": "Carrefour",
-        "salary": 16500,
+        "salary_low": 16000,
+        "salary_high": 17000,
         "page": 2
     },
     {
         "company": "Optimum-Solucoes-Estrategicas",
-        "salary": 5500,
+        "salary_low": 5000,
+        "salary_high": 6000,
         "page": 3
     },
     {
         "company": "AMARO",
-        "salary": 8000,
+        "salary_low": 8000,
+        "salary_high": 8000,
         "page": 3
     },
     {
         "company": "Via",
-        "salary": 8400,
+        "salary_low": 840,
+        "salary_high": 15792,
         "page": 3
     },
     {
         "company": "Programmer-s-Beyond-IT",
-        "salary": 6351,
+        "salary_low": 701,
+        "salary_high": 12000,
         "page": 3
     },
     {
         "company": "Kumulus",
-        "salary": 8000,
+        "salary_low": 7000,
+        "salary_high": 9000,
         "page": 3
     },
     {
         "company": "Keyrus",
-        "salary": 13500,
+        "salary_low": 12000,
+        "salary_high": 14000,
         "page": 3
     },
     {
         "company": "SulAmerica",
-        "salary": 10500,
+        "salary_low": 10000,
+        "salary_high": 11000,
         "page": 3
     },
     {
         "company": "Taking",
-        "salary": 19320,
+        "salary_low": 18816,
+        "salary_high": 20328,
         "page": 3
     },
     {
         "company": "CERC",
-        "salary": 4000,
+        "salary_low": 4000,
+        "salary_high": 4000,
         "page": 3
     },
     {
         "company": "SIS-Solucoes-Integradas-de-Sistemas",
-        "salary": 10000,
+        "salary_low": 10000,
+        "salary_high": 11000,
         "page": 3
     },
     {
         "company": "UPBI",
-        "salary": 5000,
+        "salary_low": 5000,
+        "salary_high": 5000,
         "page": 3
     },
     {
         "company": "Prime-IT-Services",
-        "salary": 11500,
+        "salary_low": 12000,
+        "salary_high": 13000,
         "page": 3
     },
     {
         "company": "IPNET-Growth-Partner",
-        "salary": 137500,
+        "salary_low": 133000,
+        "salary_high": 143000,
         "page": 3
     },
     {
         "company": "americanas-s-a",
-        "salary": 15500,
+        "salary_low": 15000,
+        "salary_high": 16000,
         "page": 3
     },
     {
         "company": "Provu",
-        "salary": 11500,
+        "salary_low": 11000,
+        "salary_high": 12000,
         "page": 3
     },
     {
         "company": "will-bank",
-        "salary": 9500,
+        "salary_low": 9000,
+        "salary_high": 10000,
         "page": 3
     },
     {
         "company": "Geofusion",
-        "salary": 8500,
+        "salary_low": 8000,
+        "salary_high": 9000,
         "page": 3
     },
     {
         "company": "SIDI",
-        "salary": 4500,
+        "salary_low": 4000,
+        "salary_high": 5000,
         "page": 3
     },
     {
         "company": "Ambev",
-        "salary": 5500,
+        "salary_low": 5000,
+        "salary_high": 6000,
         "page": 3
     },
     {
         "company": "Carrefour",
-        "salary": 143000,
+        "salary_low": 136000,
+        "salary_high": 146000,
         "page": 3
     },
     {
         "company": "QuintoAndar",
-        "salary": 6500,
+        "salary_low": 6000,
+        "salary_high": 7000,
         "page": 4
     },
     {
         "company": "Data-Marketplace",
-        "salary": 2000,
+        "salary_low": 2000,
+        "salary_high": 2000,
         "page": 4
     },
     {
         "company": "Distrito",
-        "salary": 8500,
+        "salary_low": 8000,
+        "salary_high": 9000,
         "page": 4
     },
     {
         "company": "Qintess",
-        "salary": 9500,
+        "salary_low": 9000,
+        "salary_high": 10000,
         "page": 4
     },
     {
         "company": "Itau-Unibanco-Itau-BBA-e-Rede",
-        "salary": 5000,
+        "salary_low": 5000,
+        "salary_high": 5000,
         "page": 4
     },
     {
         "company": "ScientifiCloud",
-        "salary": 6000,
+        "salary_low": 6000,
+        "salary_high": 6000,
         "page": 4
     },
     {
         "company": "Deal",
-        "salary": 8500,
+        "salary_low": 8000,
+        "salary_high": 9000,
         "page": 4
     },
     {
         "company": "Blau-Motorsport",
-        "salary": 8500,
+        "salary_low": 8000,
+        "salary_high": 9000,
         "page": 4
     },
     {
         "company": "CTIS",
-        "salary": 9500,
+        "salary_low": 9000,
+        "salary_high": 10000,
         "page": 4
     },
     {
         "company": "Opah-IT-Consulting",
-        "salary": 5500,
+        "salary_low": 5000,
+        "salary_high": 6000,
         "page": 4
     },
     {
         "company": "ClickBus",
-        "salary": 7500,
+        "salary_low": 7000,
+        "salary_high": 8000,
         "page": 4
     },
     {
         "company": "Intellibrand",
-        "salary": 8500,
+        "salary_low": 8000,
+        "salary_high": 9000,
         "page": 4
     },
     {
         "company": "Accenture",
-        "salary": 5000,
+        "salary_low": 5000,
+        "salary_high": 5000,
         "page": 4
     },
     {
         "company": "Claro",
-        "salary": 12500,
+        "salary_low": 12000,
+        "salary_high": 13000,
         "page": 4
     },
     {
         "company": "Leroy-Merlin",
-        "salary": 11500,
+        "salary_low": 11000,
+        "salary_high": 12000,
         "page": 4
     },
     {
         "company": "Instituto-de-Pesquisas-ELDORADO",
-        "salary": 8000,
+        "salary_low": 8000,
+        "salary_high": 8000,
         "page": 4
     },
     {
         "company": "DataXPTZ",
-        "salary": 3000,
+        "salary_low": 3000,
+        "salary_high": 3000,
         "page": 4
     },
     {
         "company": "Votorantim",
-        "salary": 7000,
+        "salary_low": 7000,
+        "salary_high": 7000,
         "page": 4
     },
     {
         "company": "FISIA",
-        "salary": 11500,
+        "salary_low": 11000,
+        "salary_high": 12000,
         "page": 4
     },
     {
         "company": "act-digital",
-        "salary": 13000,
+        "salary_low": 12000,
+        "salary_high": 13000,
         "page": 4
-    },
-    {
-        "company": "Bionexo",
-        "salary": 10500,
-        "page": 5
-    },
-    {
-        "company": "Geofusion",
-        "salary": 9500,
-        "page": 5
-    },
-    {
-        "company": "Juvo",
-        "salary": 12500,
-        "page": 5
-    },
-    {
-        "company": "Blueshift",
-        "salary": 5500,
-        "page": 5
-    },
-    {
-        "company": "2RP-Net-Servicos",
-        "salary": 4000,
-        "page": 5
-    },
-    {
-        "company": "inGaia",
-        "salary": 11500,
-        "page": 5
-    },
-    {
-        "company": "ATRA-Informatica",
-        "salary": 16500,
-        "page": 5
-    },
-    {
-        "company": "americanas-s-a",
-        "salary": 6500,
-        "page": 5
-    },
-    {
-        "company": "Triad-Systems",
-        "salary": 9500,
-        "page": 5
-    },
-    {
-        "company": "Ambev-Tech",
-        "salary": 8500,
-        "page": 5
-    },
-    {
-        "company": "Semantix",
-        "salary": 5500,
-        "page": 5
-    },
-    {
-        "company": "Ambev",
-        "salary": 11000,
-        "page": 5
-    },
-    {
-        "company": "Cetax-Consultoria-de-BI",
-        "salary": 1000,
-        "page": 5
-    },
-    {
-        "company": "Petlove",
-        "salary": 2000,
-        "page": 5
-    },
-    {
-        "company": "A-de-Agro",
-        "salary": 6500,
-        "page": 5
-    },
-    {
-        "company": "Arius-Sistemas",
-        "salary": 1000,
-        "page": 5
-    },
-    {
-        "company": "Delivery-Center",
-        "salary": 6000,
-        "page": 5
-    },
-    {
-        "company": "banco-BV",
-        "salary": 11500,
-        "page": 5
-    },
-    {
-        "company": "Projeto-22",
-        "salary": 9500,
-        "page": 5
-    },
-    {
-        "company": "Neon-Pagamentos",
-        "salary": 11500,
-        "page": 5
-    },
-    {
-        "company": "Avanade",
-        "salary": 11500,
-        "page": 6
-    },
-    {
-        "company": "digio",
-        "salary": 9500,
-        "page": 6
-    },
-    {
-        "company": "Leega",
-        "salary": 2000,
-        "page": 6
-    },
-    {
-        "company": "Ambev",
-        "salary": 2000,
-        "page": 6
-    },
-    {
-        "company": "Cielo",
-        "salary": 16500,
-        "page": 6
-    },
-    {
-        "company": "Santander",
-        "salary": 10000,
-        "page": 6
-    },
-    {
-        "company": "Peapply",
-        "salary": 1500,
-        "page": 6
-    },
-    {
-        "company": "2RP-Net",
-        "salary": 2000,
-        "page": 6
-    },
-    {
-        "company": "BlueShift-Brasil",
-        "salary": 6500,
-        "page": 6
-    },
-    {
-        "company": "Olist",
-        "salary": 21336,
-        "page": 6
-    },
-    {
-        "company": "BRK-Ambiental",
-        "salary": 21840,
-        "page": 6
-    },
-    {
-        "company": "Rede-Ok",
-        "salary": 9500,
-        "page": 6
-    },
-    {
-        "company": "Lambda3",
-        "salary": 8000,
-        "page": 6
-    },
-    {
-        "company": "UOL-EdTech",
-        "salary": 7500,
-        "page": 6
-    },
-    {
-        "company": "Rivendel",
-        "salary": 8500,
-        "page": 6
-    },
-    {
-        "company": "Locaweb",
-        "salary": 5000,
-        "page": 6
-    },
-    {
-        "company": "ClearSale",
-        "salary": 10500,
-        "page": 6
-    },
-    {
-        "company": "Datakron",
-        "salary": 5000,
-        "page": 6
-    },
-    {
-        "company": "Editora-Abril-S-A",
-        "salary": 6000,
-        "page": 6
-    },
-    {
-        "company": "ACT",
-        "salary": 8000,
-        "page": 6
-    },
-    {
-        "company": "Inmetrics",
-        "salary": 6500,
-        "page": 7
-    },
-    {
-        "company": "Emp-Sys",
-        "salary": 4000,
-        "page": 7
-    },
-    {
-        "company": "PicPay",
-        "salary": 17000,
-        "page": 7
-    },
-    {
-        "company": "Rhizom",
-        "salary": 4000,
-        "page": 7
-    },
-    {
-        "company": "NTT-DATA",
-        "salary": 8000,
-        "page": 7
-    },
-    {
-        "company": "Acesso-Solucoes-de-Pagamento",
-        "salary": 9500,
-        "page": 7
-    },
-    {
-        "company": "4zoom",
-        "salary": 11760,
-        "page": 7
-    },
-    {
-        "company": "emDia",
-        "salary": 11500,
-        "page": 7
-    },
-    {
-        "company": "Marinha-do-Brasil",
-        "salary": 11500,
-        "page": 7
-    },
-    {
-        "company": "everis",
-        "salary": 4000,
-        "page": 7
-    },
-    {
-        "company": "Raizen",
-        "salary": 13500,
-        "page": 7
-    },
-    {
-        "company": "Plusoft",
-        "salary": 4000,
-        "page": 7
-    },
-    {
-        "company": "ST-IT",
-        "salary": 8904,
-        "page": 7
-    },
-    {
-        "company": "XP-Inc",
-        "salary": 161000,
-        "page": 7
-    },
-    {
-        "company": "C6-Bank",
-        "salary": 12500,
-        "page": 7
-    },
-    {
-        "company": "Emprestimo-Sim",
-        "salary": 6000,
-        "page": 7
-    },
-    {
-        "company": "Netshoes",
-        "salary": 7000,
-        "page": 7
-    },
-    {
-        "company": "Cogna",
-        "salary": 6000,
-        "page": 7
-    },
-    {
-        "company": "Universidade-de-Sao-Paulo-USP",
-        "salary": 8000,
-        "page": 7
-    },
-    {
-        "company": "Fifteen-Hundred-Consultoria",
-        "salary": 8500,
-        "page": 7
-    },
-    {
-        "company": "Jussi",
-        "salary": 6000,
-        "page": 8
-    },
-    {
-        "company": "Stone",
-        "salary": 8500,
-        "page": 8
-    },
-    {
-        "company": "Hospital-Israelita-Albert-Einstein",
-        "salary": 8500,
-        "page": 8
-    },
-    {
-        "company": "Beblue",
-        "salary": 14500,
-        "page": 8
-    },
-    {
-        "company": "Tok-and-Stok",
-        "salary": 7500,
-        "page": 8
-    },
-    {
-        "company": "Concil-Inteligencia",
-        "salary": 15000,
-        "page": 8
-    },
-    {
-        "company": "IBM",
-        "salary": 2000,
-        "page": 8
-    },
-    {
-        "company": "Sodexo",
-        "salary": 10000,
-        "page": 8
-    },
-    {
-        "company": "Companhia-Propria",
-        "salary": 12500,
-        "page": 8
-    },
-    {
-        "company": "Dasa",
-        "salary": 1848,
-        "page": 8
-    },
-    {
-        "company": "Braskem",
-        "salary": 2000,
-        "page": 8
-    },
-    {
-        "company": "Gesto-Saude-e-Tecnologia",
-        "salary": 7500,
-        "page": 8
-    },
-    {
-        "company": "UOL",
-        "salary": 9240,
-        "page": 8
-    },
-    {
-        "company": "Claro",
-        "salary": 9000,
-        "page": 8
-    },
-    {
-        "company": "IBOPE-DTM",
-        "salary": 4500,
-        "page": 8
-    },
-    {
-        "company": "Eleflow",
-        "salary": 10500,
-        "page": 8
-    },
-    {
-        "company": "2RP-Net-Servicos",
-        "salary": 4000,
-        "page": 8
-    },
-    {
-        "company": "Sei",
-        "salary": 10500,
-        "page": 8
-    },
-    {
-        "company": "Banco-Safra",
-        "salary": 16000,
-        "page": 8
-    },
-    {
-        "company": "Accenture",
-        "salary": 2000,
-        "page": 8
-    },
-    {
-        "company": "SuperSim",
-        "salary": 7000,
-        "page": 9
-    },
-    {
-        "company": "Mazzatech",
-        "salary": 12432,
-        "page": 9
-    },
-    {
-        "company": "iBlue-Consulting",
-        "salary": 15500,
-        "page": 9
-    },
-    {
-        "company": "Remay",
-        "salary": 13944,
-        "page": 9
-    },
-    {
-        "company": "MJV-Tecnologia-e-Inovacao",
-        "salary": 8500,
-        "page": 9
-    },
-    {
-        "company": "BRK-Ambiental",
-        "salary": 216500,
-        "page": 9
-    },
-    {
-        "company": "Autonomo-Brazil",
-        "salary": 7000,
-        "page": 9
-    },
-    {
-        "company": "F1RST-Tecnologia",
-        "salary": 9500,
-        "page": 9
-    },
-    {
-        "company": "CargoX",
-        "salary": 8000,
-        "page": 9
-    },
-    {
-        "company": "CWS-Digital",
-        "salary": 3500,
-        "page": 9
-    },
-    {
-        "company": "Pismo",
-        "salary": 20000,
-        "page": 9
-    },
-    {
-        "company": "iFood",
-        "salary": 7500,
-        "page": 9
-    },
-    {
-        "company": "Data-Mining",
-        "salary": 1000,
-        "page": 9
-    },
-    {
-        "company": "Jampp",
-        "salary": 8500,
-        "page": 9
-    },
-    {
-        "company": "BLR-DATA",
-        "salary": 13500,
-        "page": 9
-    },
-    {
-        "company": "Blu365",
-        "salary": 2000,
-        "page": 9
-    },
-    {
-        "company": "Mercado-Livre",
-        "salary": 10500,
-        "page": 9
-    },
-    {
-        "company": "MaxxiData",
-        "salary": 6500,
-        "page": 9
-    },
-    {
-        "company": "Banco-Fibra",
-        "salary": 9000,
-        "page": 9
-    },
-    {
-        "company": "Social-Miner",
-        "salary": 9500,
-        "page": 9
     }
 ]
