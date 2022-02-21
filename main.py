@@ -31,7 +31,7 @@ def call_page(i):
     return bs(ret.content, "lxml")    
 
 def conv_salary(salary):
-    return salary.replace('R$ ', '').replace('.','').replace(' mil','000')
+    return salary.replace('R$ ', '').replace('.','').replace(' mil','000').replace(' mi', '000')
 
 def get_total_pages():
     soup = call_page(0)
@@ -73,7 +73,7 @@ for i in range(1,total_pages):
 
         if res:         
             if len(res) == 7:
-                salary_high = unicodedata.normalize("NFKD", res.contents[6])
+                salary_high = unicodedata.normalize("NFKD", res.contents[6]).replace(' mil','000').replace(' mi','000')
             else:
                 salary_high = '0'   
 
